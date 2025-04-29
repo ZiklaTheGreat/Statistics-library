@@ -1,0 +1,14 @@
+# Ignorovať priečinky
+build/
+dist/
+
+# Ignorovať dočasné súbory
+*.o
+*.log
+*.tmp
+
+# Ignorovať súbory vytvorené IDE
+.vscode/
+
+# Ignorovať súbory s citlivými údajmi
+config.ini
